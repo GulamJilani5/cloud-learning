@@ -98,3 +98,7 @@ Service Principal
 ##### 🟦 User-assigned
 
 - Created independently and can be attached to multiple Azure resources.
+
+# ⏺️ Azure RBAC
+
+- Authorization
