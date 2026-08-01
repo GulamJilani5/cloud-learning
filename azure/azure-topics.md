@@ -16,6 +16,7 @@
 - Azure Virtual Machine Scale Sets
 - Azure App Service
 - Azure Functions
+- Azure Container Registry(ACR)
 - Azure Kubernetes Service (AKS)
 - Azure Container Instances
 - Azure Batch
